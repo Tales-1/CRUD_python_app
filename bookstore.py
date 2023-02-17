@@ -44,10 +44,10 @@ while True:
     # If table doesn't exist then create one
     if not table_exists:
         cursor.execute('''CREATE TABLE IF NOT EXISTS books
-        id INTEGER
-        Title TEXT
-        Author TEXT
-        Qty INTEGER
+        id INTEGER,
+        Title TEXT,
+        Author TEXT,
+        Qty INTEGER,
         CONSTRAINT pk_id PRIMARY KEY(id)
     ''')
         db.commit()

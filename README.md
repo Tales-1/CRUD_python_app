@@ -12,21 +12,21 @@ This is a Python application that uses sqlite3 to create a database for a bookst
 
 # Usage
 
-1. Navigate to the project directory:
+Navigate to the project directory:
 
     cd bookstore-clerk-app
 
-2. Run the app:
+Run the app:
 
-  python app.py
+    python app.py
 
 Once the app is running, users will be presented with the following options:
 
-  1 - Enter a book
-  2 - Update book
-  3 - Delete book
-  4 - Search books
-  0 - Exit the program
+    1 - Enter a book
+    2 - Update book
+    3 - Delete book
+    4 - Search books
+    0 - Exit the program
 
 Select an option by entering the corresponding number and following the prompts.
 
@@ -36,14 +36,10 @@ Select an option by entering the corresponding number and following the prompts.
 
 To add a new book to the database, select option 1 from the menu and enter the following information:
 
+    Id
     Title
     Author
-    Genre
-    Publisher
-    Publication year
-    ISBN
-    Price
-    Number of copies
+    Quantity
 
 **Update a book**
 

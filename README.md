@@ -41,7 +41,7 @@ To add a new book to the database, select option 1 from the menu and enter the f
     Author
     Quantity
 
-**Update a book**
+### **Update a book**
 
 To update a book in the database, select option 2 from the menu and enter the ISBN of the book you want to update. Then enter the new information for the book.
 

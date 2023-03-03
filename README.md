@@ -32,7 +32,7 @@ Select an option by entering the corresponding number and following the prompts.
 
 ## Functionality
 
-**Add a book**
+### Add a book
 
 To add a new book to the database, select option 1 from the menu and enter the following information:
 
@@ -41,19 +41,19 @@ To add a new book to the database, select option 1 from the menu and enter the f
     Author
     Quantity
 
-### **Update a book**
+### Update a book
 
 To update a book in the database, select option 2 from the menu and enter the ISBN of the book you want to update. Then enter the new information for the book.
 
-**Delete a book**
+### Delete a book
 
 To delete a book from the database, select option 3 from the menu and enter the ISBN of the book you want to delete.
 
-**Search for a book**
+### Search for a book
 
 To search for a book in the database, select option 4 from the menu and enter the ISBN, title, author, or genre of the book you're looking for. The app will return a list of books that match your search criteria.
 
-**Exit the program**
+### Exit the program
 
 To exit the program, select option 0 from the menu.
 
